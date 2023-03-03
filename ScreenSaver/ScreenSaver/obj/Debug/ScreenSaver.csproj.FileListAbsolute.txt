@@ -1,0 +1,12 @@
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.AssemblyReference.cache
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Menu.resources
+C:\Users\Alexhs\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.ScreenSaver.resources
