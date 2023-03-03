@@ -4,8 +4,9 @@
 ![Screenshot_8](https://user-images.githubusercontent.com/98179885/222773045-961f2ac9-ad29-414d-a09f-02b7c8e23fe9.jpg)
 
 
-Ζητείται να υλοποιήσετε ένα είδος “screen saver” κατά το οποίο ένας αριθμός από μπάλες (ορισμένος
-από τον χρήστη) θα κινείται στην οθόνη του υπολογιστή σε τυχαίες αρχικά γωνίες. Όταν οι μπάλες θα
-φτάνουν στα όρια της οθόνης (δεξιά-αριστερά-πάνω-κάτω) θα πρέπει να αναπηδά σε αντίστοιχη γωνία.
-Η κίνηση των μπαλών θα συνεχίζει επ’ αόριστον, μέχρι ο χρήστης να κλείσει την εφαρμογή (πιθανότητα
-από το taskbar). 
+You are asked to implement a kind of "screen saver" in which a number of balls (a certain number of
+by the user) will move on the computer screen at random initial angles. When the balls will
+reach the boundaries of the screen (right-left-up-down) it should bounce at a corresponding angle.
+The movement of the balls will continue indefinitely until the user closes the application (probability
+from the taskbar).
+
